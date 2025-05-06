@@ -24,3 +24,10 @@ Gelecekte, AutoLab'ın otomobil tutkunları için en kapsamlı kaynak olmasını
 
 📞 İletişim
 Bizimle iletişime geçmek isterseniz, emrahhckr@gmail.com üzerinden bize ulaşabilirsiniz. Sorularınızı, önerilerinizi ve geri bildirimlerinizi duymaktan mutluluk duyarız!
+
+
+
+Ekran görüntüsü
+
+
+![Image](https://github.com/user-attachments/assets/133fb65e-6442-4332-b866-2894450be729)
